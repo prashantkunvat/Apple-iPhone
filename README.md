@@ -1,8 +1,26 @@
-# React + Vite
+# Apple iPhone Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an interactive and visually stunning **Apple iPhone clone** built using modern web technologies. It features **3D iPhone models**, **smooth animations**, and a **responsive design** for optimal viewing across devices.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **3D iPhone Models**: The project includes detailed 3D models of iPhones using `three.js` and `react-three-fiber`.
+- **Smooth Animations**: Animations are powered by `GSAP` to provide a seamless experience.
+- **Responsive Design**: The layout adjusts gracefully across devices using `Tailwind CSS`.
+- **Modern Build Tools**: Built with `Vite` for fast development and optimized build processes.
+
+## Technologies Used
+
+- `React-Three-Fiber`: For managing 3D scenes in React.
+- `Three.js`: To create and render the 3D models.
+- `GSAP`: For smooth animations and transitions.
+- `Tailwind CSS`: To handle the responsive design and styling.
+- `Vite`: For building the project with fast Hot Module Replacement (HMR) and optimized builds.
+
+## Installation and Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prashantkunvat/Apple-iPhone.git
